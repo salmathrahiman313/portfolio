@@ -7,9 +7,16 @@
 /* Typography CSS */
 body
 {
-    background-color: #1c1c1ds;
+    background: #1c1c1d;
+
     font-family: 'Lato', sans-serif;
     color: white;
+}
+p,h1{
+    color: white !important;
+}
+img{
+    background: #1c1c1d;
 }
 
 
